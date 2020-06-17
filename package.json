@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "husky": "4.2.5",
-    "lint-staged": "9.5.0",
+    "lint-staged": "10.2.11",
     "prettier": "1.19.1",
     "tslint": "6.1.2",
     "tslint-config-airbnb": "5.11.2",
